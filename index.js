@@ -1,5 +1,5 @@
-import Paddle from "/src/paddle";
-import InputHandler from "/src/input";
+import Paddle from "/paddle";
+import InputHandler from "/input";
 
 let canvas = document.getElementById("gameScreen");
 let ctx = canvas.getContext("2d");
